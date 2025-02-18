@@ -1,2 +1,2 @@
-# kloud_internal_team
-repo is related to internal POC acivities.
+# HEG Internal Cluster
+Cluster is related to internal HEG acivities.
